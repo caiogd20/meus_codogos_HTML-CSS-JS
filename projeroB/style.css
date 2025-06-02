@@ -1,0 +1,16 @@
+header,footer,main,nav {
+  background-color: #f8f9fa;
+  text-align: center;
+  border: black 1px solid;
+}
+main {
+    width: 70%;
+    float: right;
+}
+nav{
+    width: 29.3%;
+    float: left;
+}
+footer {
+    clear: both;
+}
