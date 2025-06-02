@@ -7,9 +7,7 @@ header,main,aside,footer{
 
 
 }
-h3{
-    text-shadow: 0px 0px 5px #ff0000;
-}
+
 div p:hover{
     color: rgb(0, 0, 128);
 }
